@@ -1,14 +1,21 @@
-Problem: Two Sum
+# Two Sum
 
-Platform: LeetCode
+**Platform:** LeetCode
 
-Difficulty: Easy
+**Difficulty:** Easy
 
-Link:
+**Pattern:** Arrays & Hashing
+
+## Link
+
 https://leetcode.com/problems/two-sum/
 
-Time Complexity:
-O(n)
+## Complexity
 
-Space Complexity:
-O(n)
+- Time: O(n)
+- Space: O(n)
+
+## Notes
+
+- Used a hash map.
+- Store visited numbers.
