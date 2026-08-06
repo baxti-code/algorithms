@@ -5,7 +5,11 @@ Difficulty : Medium
 
 Time complexity : O(n)
 Space complexity :O(n)
+
+##Hash map & Bucket sort
+
 """
+
 from collections import Counter
 from typing import List
 
