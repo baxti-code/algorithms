@@ -1,5 +1,5 @@
 """
-#15 leetcode 11. Container With Most Water
+#leetcode 11. Container With Most Water
 
 Difficulty: Medium
 
