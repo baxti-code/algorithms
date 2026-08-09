@@ -1,6 +1,6 @@
 """
 # leetcode 42. Trapping Rain Water
-Diffficulty: Hard
+Difficulty: Hard
 
 Time Complexity: O(n)
 Space Complexity: O(1)
